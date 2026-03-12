@@ -4,9 +4,9 @@ Python tool to automatically generate Minecraft resource packs from a language J
 The idea for this project was heavily inspired by HanziResourcePack (https://github.com/WinterAlexander/HanziResourcePack)
 
 ## Requirements
--Python 3.x
--Pillow Library
--Minecraft
+- Python 3.x
+- Pillow Library
+- Minecraft
 
 ## Usage
 Run the script and provide the json file in the "~/.minecraft/assets/indexes" directory when prompted
