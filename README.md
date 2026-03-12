@@ -9,7 +9,7 @@ The idea for this project was heavily inspired by HanziResourcePack (https://git
 - Minecraft
 
 ## Usage
-Run the script and provide the json file in the "~/.minecraft/assets/indexes" directory when prompted
+Run the script and provide the json file path in the "~/.minecraft/assets/indexes" directory when prompted
 
 ## TODO
 - Add support for special models (doors, beds, containers, etc.)
